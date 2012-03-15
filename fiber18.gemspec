@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "fiber18"
-  s.version     = "1.0.0" 
+  s.version     = "1.0.1" 
   s.authors     = [""]
   s.email       = [""]
   s.homepage    = "http://github.com/tmm1/fiber18"
